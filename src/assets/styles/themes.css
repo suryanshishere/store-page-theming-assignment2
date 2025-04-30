@@ -1,0 +1,30 @@
+/* Base/default theme variables */
+.theme-default {
+    --primary: #1a202c;
+    --primary-deep: #2d3748;
+    --primary-mild: #4a5568;
+  }
+  
+  /* Theme 1 variables */
+  .theme-theme1 {
+    --primary: #FF6347;
+    --primary-deep: #E5533D;
+    --primary-mild: #FF7F66;
+  }
+  
+  /* Theme 2 variables */
+  .theme-theme2 {
+    --primary: #4B0082;
+    --primary-deep: #3A006E;
+    --primary-mild: #5A0FA2;
+  }
+
+  .mode-light {
+    --background: #ffffff;
+    --text: #1a1a1a;
+  }
+  
+  .mode-dark {
+    --background: #121212;
+    --text: #e0e0e0;
+  }
